@@ -4,7 +4,7 @@ import json
 from typing import Dict
 
 # Groq API configuration
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_API_URL = "https://early-childhood-development-predictor-jbvrbwmpblwv9jtxrqi3ar.streamlit.app/"
 GROQ_API_KEY = "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"  # Your provided key
 
 class DevelopmentalPredictor:
